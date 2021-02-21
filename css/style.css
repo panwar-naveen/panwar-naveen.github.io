@@ -1779,4 +1779,8 @@ a:focus {
 .modal-body{    
     max-height: 350px;
     overflow-y: scroll;
+}
+.modal-header{
+    align-items: center;
+    justify-content: center;
 }    
