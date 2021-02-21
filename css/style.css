@@ -1783,4 +1783,9 @@ a:focus {
 .modal-header{
     align-items: center;
     justify-content: center;
-}    
+}
+
+.top-bar .logo h1 {
+    line-height: 55px;
+    font-weight: 600;
+}
