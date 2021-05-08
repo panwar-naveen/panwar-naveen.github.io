@@ -1004,6 +1004,7 @@ a:focus {
     padding: 30px;
     background: #121518;
     overflow: hidden;
+    min-height: 580px;
 }
 
 .testimonial .testimonial-item i {
