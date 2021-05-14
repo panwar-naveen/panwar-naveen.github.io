@@ -1,0 +1,313 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>The Legal Zone</title>
+        <meta content="width=device-width, initial-scale=1.0" name="viewport">
+        <meta content="The Legal Zone" name="keywords">
+        <meta content="The Legal Zone" name="description">
+
+        <!-- Favicon -->
+        <link href="img/favicon.ico" rel="icon">
+
+        <!-- Google Font -->
+        <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@1,600;1,700;1,800&family=Roboto:wght@400;500&display=swap" rel="stylesheet"> 
+        
+        <!-- CSS Libraries -->
+        <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
+        <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
+        <link href="lib/animate/animate.min.css" rel="stylesheet">
+        <link href="lib/owlcarousel/assets/owl.carousel.min.css" rel="stylesheet">
+
+        <!-- Template Stylesheet -->
+        <link href="css/style.css" rel="stylesheet">
+    </head>
+
+    <body>
+        <div class="wrapper">
+            <!-- Top Bar Start -->
+            <div class="top-bar">
+                <div class="container-fluid">
+                    <div class="row">
+                        <div class="col-lg-4">
+                            <div class="logo">
+                                <a href="index.html">
+                                    <h1>The Legal Zone</h1>
+                                    <!-- <img src="img/logo.jpg" alt="Logo"> -->
+                                </a>
+                            </div>
+                        </div>
+                        <div class="col-lg-8">
+                            <div class="top-bar-right">
+                                <div class="text">
+                                    <p>Contact us on</p>
+                                    <h2>+91 8076646045</h2>
+                                </div>
+                                <div class="social">
+                                    <a href=""><i class="fab fa-twitter"></i></a>
+                                    <a href="https://www.facebook.com/tlz.thelegalzone"><i class="fab fa-facebook-f"></i></a>
+                                    <a href=""><i class="fab fa-linkedin-in"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Top Bar End -->
+
+            <!-- Nav Bar Start -->
+            <div class="nav-bar">
+                <div class="container-fluid">
+                    <nav class="navbar navbar-expand-lg bg-dark navbar-dark">
+                        <a href="#" class="navbar-brand">MENU</a>
+                        <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+
+                        <div class="collapse navbar-collapse justify-content-between" id="navbarCollapse">
+                            <div class="navbar-nav mr-auto">
+                                <a href="index.html" class="nav-item nav-link">Home</a>
+                                <a href="about.html" class="nav-item nav-link">About</a>
+                                <a href="service.html" class="nav-item nav-link">Practice</a>
+                                <a href="team.html" class="nav-item nav-link">Attorneys</a>
+                                <a href="portfolio.html" class="nav-item nav-link">Case Studies</a>
+                                <a href="blog.html" class="nav-item nav-link">Blogs</a>
+                                <a href="contact.html" class="nav-item nav-link">Contact</a>
+                                <a href="career.html" class="nav-item nav-link">Career</a>
+                            </div>
+                        </div>
+                    </nav>
+                </div>
+            </div>
+            <!-- Nav Bar End -->
+
+            
+            
+            <!-- Page Header Start -->
+            <div class="page-header">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-12">
+                            <h2>Terms of use</h2>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- Page Header End -->
+
+
+            <!-- About Start -->
+            <div class="about">
+                <div class="container">
+                    <div class="row align-items-center">
+                        <div class="col-lg-5 col-md-6">
+                            <div class="about-img">
+                                <img src="img/Slide3.JPG" alt="Image">
+                            </div>
+                        </div>
+                        <div class="col-lg-7 col-md-6">
+                            <div class="about-text">
+                                <p>
+                                   <b> 1.	General Introduction </b> </p>
+                                   <p> 1.1 Any use of the website https://thelegalzone.in (hereinafter referred to as “Website”) is owned and operated by The Legal Zone, a partnership law firm duly registered under the Indian Partnership Act, 1932 having its registered office at Chamber No. 15 Saket Courts Complex, New Delhi-110049 and corporate office at 129-C, Shanti Niwas, Shahpur-jat, New Delhi 110049 (hereinafter referred to as “Firm,” or “us,” or “we”) is subject to these Terms of Use. </p>
+<p> 1.2 For the purposes of these Terms of Use, the term ‘User’ shall mean any person or using this website. </p>
+<p> 1.3 These Terms of Use are provided in an electronic format as prescribed under the Information Technology Act, 2000, the Rules made thereunder and the amendments regarding documents preserved in electronic format. These Terms of Use will govern the use of Website by the User(s). </p>
+<p> 1.4 Browsing or otherwise using this website signifies acceptance of these Terms of Use as well as formal agreement to be legally bound by the same. </p>
+<p> 1.5 These Terms of Use constitute the comprehensive terms and conditions for the use of the website. Any non-compliance with these Terms of Use may lead to disqualification from using the website. </p>
+<p> 1.6 We reserve all rights to alter these Terms of Use as we may deem fit in its sole and absolute discretion without any obligation of issuing prior notification. Any major change or revision in these Terms of Use will be communicated to the User along with the date when the modification was made. </p>
+<p> 1.7 This document is an electronic record generated by a computer system and does not require any physical or digital signatures. </p>
+<p> 1.8 Any changes made to these Terms of Use by us will be effective immediately and any continued use of the website after such change constitutes acceptance of such changes. </p>
+<p> 1.9 The website must not be used in any manner in case there is non-acceptance of these Terms of Use or inability to be bound by them. </p>
+                            <p></p>
+                            
+                            <p>
+                                   <b> 2. Eligibility criteria </b> </p>
+                                  <p> 2.1 Before making any use of the website, User(s) hereby represents and warrants of being at least eighteen (18) years of age or above and being fully able and competent as defined under the provisions of the Indian Contract Act, 1872 to understand and agree the terms, conditions, obligations, affirmations, representations, and warranties set forth in these Terms of Use. In case the User(s) who are below the age of eighteen (18) years wish to use the website, then such use shall be under the direct supervision of the legal guardian or parents of the User, who have agree to these Terms of Use on behalf of such User. In the event a minor uses the website, it is assumed that he/she has obtained the consent of the legal guardian or parents and such use is made available by his/ her legal guardian or parents. We will not be responsible for any consequence that arises as a result of misuse of any kind of the website that may occur by virtue of any person including a minor registering for using the website. </p>
+ <p> 2.2 We reserve the right to terminate a User account and / or refuse to provide a User(s) with access to the website if it is discovered that such User(s) is under 18 years of age and his/ her parent/legal guardian do not consent to use of website or if any information provided by the User(s) is inaccurate. </p>
+ <p> 2.3 It is agreed that we do not have the responsibility to ensure that User conforms to the aforesaid eligibility criteria. Any person under the age of 18 years should seek the consent of their parents/legal guardians before providing any information about himself/ herself or his/ her parents/ legal guardian on the website. </p>
+ <p> 2.4 Only those Users which comply with all laws and regulations in force shall be eligible to register with us, and the website shall be used only in compliance with these Terms of Use in a manner that does not violate our legal rights. </p>
+<p></p>
+
+                         <p>  <b> 3. Privacy policy </b> </p>
+                         <p> 3.1 We are committed to ensuring that the information as may be collected using cookies or are furnished, as a part of registration process, is secure and no unauthorized access or disclosure takes place with respect to the same. The Firm has installed internal checks and mechanisms to ensure the same. </p>
+ <p> 3.2 Purpose of collecting PII: The major purposes for the collection of PII are listed below: </p>
+ <p> i. For improving services offered and received using the Website, </p>
+ <p> ii. For keeping internal records, </p>
+ <p> iii. For market research purposes, </p>
+ <p> iv. For the purpose of enhancing User’s experience. </p>
+ <p> 3.3 In case a User changes his/ her mind and wishes to discontinue sharing his/ her PII, he/ she/ it may express such intention by mailing at : thelegalzone.net@gmail.com </p>
+ <p> 3.4 We reserve the right at all times to disclose any information as may be required by law. This may include disclosure of information for investigation of an alleged illegal activity or its response to a lawful court order. </p>
+ <p></p>
+ 
+                         <p> <b> 4. Prohibited use </b> </p>
+<p> 4.1 The Users shall use the website solely for personal and non-commercial purposes. </p>
+<p> 4.2 The Users shall not decompile, reverse engineer, or disassemble the contents of the website or modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell any information obtained from the use of website. </p>
+ <p> 4.3 The User shall not use the website in any way that is unlawful or harms the goodwill or reputation of the Firm. </p>
+ <p> 4.4 The User shall not use the website in any way which: </p>
+ <p> i. Interferes with another person’s use of the website, </p>
+ <p> ii. Makes or transmits electronic copies of materials protected by copyright without the permission of the owner, committing any act that amounts to the infringement of intellectual property or making available any material that infringes any intellectual property rights or other proprietary rights of anyone else, </p>
+ <p> iii. Transmits or makes available any material that contains viruses, trojan horses, worms, spyware, time bombs, cancelbots, or other computer programming routines, code, files or such other programs that may harm the website, interests or rights of other User(s) or limit the functionality of any computer software, hardware or telecommunications, </p>
+ <p> iv. Uses the website in any manner that could damage, disable, overburden or impair any of the Firm’s servers or the networks connected to any of the servers on which the website is hosted, </p>
+ <p> v. Use the website for purposes that are not permitted by these Terms of Use or any applicable law, regulation or generally accepted practices or guidelines in the relevant jurisdiction. </p>
+<p></p>
+
+
+ <p> <b> 5. Access </b> </p>
+<p> 5.1 The User’s access to the website may be occasionally suspended or restricted for the purpose of repairs, maintenance, or the introduction of new facilities or services at any time without prior notice. </p>
+<p> 5.2 There is no warranty, representation or guarantee that the website or the use thereof will be uninterrupted, complete, accurate, current, reliable, error-free, secure, or that any problems will be corrected, or that any information, software or other material accessible from the website is free from viruses or other harmful components. </p>
+<p> 5.3 We do not warrant, guarantee or make any representation regarding the use of or the results arising from the use of the website either in terms of its compatibility with hardware or other software or equipment, and the User must assume all responsibility and risk for use of the website. </p>
+<p></p>
+
+
+ <p> <b> 6. Breach </b> </p>
+ <p> 6.1 Without limiting other remedies, we may, at our sole discretion may limit activity of the User, immediately for temporary/ indefinite period or may suspend or terminate or block membership and/or refuse to provide access to the website in the event, including but not limited to: </p>
+<p> a) Breach of the Terms of Use or any other rules and policies as displayed on the website, </p>
+<p> b) If we are unable to verify or authenticate the information furnished by the User, </p>
+<p> c) In such circumstances wherein we are of the opinion that there is a violation of any law(s) in force. </p>
+<p> 6.2 The User(s) willing to use the website also agrees that any breach of these Terms of Use or any other rules or policy as displayed on the website will constitute an unlawful and unfair business practice, and will cause irreparable harm to us, for which monetary damages would normally be inadequate. In case payment of monetary damages is deemed adequate remedy in our opinion, the User(s) consents to pay the same to us, which shall not forestall the obtaining of any injunctive or equitable relief that we deem necessary or appropriate in such circumstances. These remedies shall be in addition to any other remedies we may have in law or in equity. </p>
+<p> 6.3 If we initiate any legal action as a result of any breach of these Terms of Use or any other rules or policy, we shall also be entitled to recover all reasonable legal costs in respect of such action, in addition to any other relief available to us under law. </p>
+<p></p>
+
+
+ <p> <b> 7. Intellectual Property Rights </b> </p>
+<p> 7.1 Intellectual Property of the Firm includes, but is not limited to, innovations, improvements, processes, technical know-how, techniques, source code of the Firm, content made literary and artistic works, schematics, patents, proposed trade secrets, its trademarks, trade names, designs, patents and copyrighted works, notes, agreements/ contracts entered by the Firm, formulas, in-house software, VPN etc. Intellectual Property of the Firm also extends to the content made available by the Firm to the User. We reserve the right to take any legal recourse available for the protection of its Intellectual Property. </p>
+<p> 7.2 All intellectual property rights including trademarks & logos and the website shall vest in the Firm and the User shall not indulge in any act that construes such trademarks & logos of the Firm belong to the User. </p>
+<p> 7.3 User shall not use, receive or copy any source code and look and feel of the website and shall not reverse engineer, disassemble or decompile, or otherwise attempt to derive source code of the website for any purpose whatsoever. </p>
+<p> 7.4 Access or use of the website does not confer and shall not be construed as conferring upon anyone the license to use Firm’s Intellectual Property Rights. </p>
+<p></p>
+
+ <p> <b> 8. Posting of Content </b> </p>
+ <p> 8.1 The Firm enables its User(s) to post messages, upload their CVs in a various segment as may be desired by User(s) depending on the area, city, state or country the Users in their respective segments will receive the concerned User’s post. </p>
+<p> 8.2 The User shall be solely responsible for all the content posted from his/ her account. </p>
+<p> 8.3 The Firm is under no obligation to monitor or control the content posted on the website and the Firm cannot take responsibility of the correctness and accuracy of such content. Any use or reliance on any content or materials posted on the website or obtained by the User on the website is at the User’s own risk and prudence. </p>
+<p> 8.4 The Firm does not endorse, support, represent or guarantee the completeness, truthfulness, accuracy, or reliability of any content or communications posted on the website or endorse any opinions expressed on the website. </p>
+<p> 8.5 The User understands that by using the website, the User may be exposed to content that might be offensive, harmful, inaccurate or otherwise inappropriate, or in some cases, content that have been mislabeled or are otherwise deceptive. Under no circumstances will Firm be liable in any way for any content whatsoever, including, but not limited to, any errors or omissions in any content, or any loss or damage of any kind incurred as a result of the use of any content posted, emailed, transmitted or otherwise made available on the website. </p>
+<p></p>
+
+
+ <p> <b> 9. Right of the owner of the website to monitor the content </b> </p>
+ <p>The Firm reserves the right to monitor the content available on the website whether made available by itself or by any User.</p>
+ <p></p>
+ 
+ <p> <b> 10. Indemnification </b> </p>
+ <p> The User agrees to indemnify, defend and hold harmless the Firm and its affiliates and their officers, directors, employees, contractors, agents, licensors, service providers, subcontractors and suppliers from and against any and all losses, liabilities, expenses, damages and costs, including reasonable attorneys’ fees and court costs, arising or resulting from the use of the website and any violation of these Terms of Use or any applicable law. </p>
+   <p></p>
+   
+    <p> <b> 11. Limitation of liability </b> </p>
+     <p>To the fullest extent permitted by applicable laws, in no event shall the Firm be liable for any damages resulting from any of the following: </p>
+<p> i. errors, mistakes, or inaccuracies of content, </p>
+<p> ii. personal injury or property damage, of any nature whatsoever, resulting from access to and use of the Services including the website, </p>
+<p> iii. any unauthorized access to or use of our servers and/or any and all PII stored therein, </p>
+<p> iv. any interruption or cessation of transmission to or from our servers, </p>
+<p> v. any bugs, viruses, Trojan horses, or the like, which may be transmitted to or through the services by any third party, </p>
+<p> vi. any loss of data or content, </p>
+<p> vii. any errors or omissions in any content or for any loss or damage of any kind incurred as a result of the Users utilizing of any content posted, transmitted, or otherwise made available via the Website, whether based on warranty, contract, tort, or any other legal theory, </p>
+<p> viii. the disclosure of information pursuant to these terms or our Privacy Policy, </p>
+<p> ix. The User’s failure to keep the password or account details secure and confidential, </p>
+<p> x. In no event shall the Firm or any indirect, incidental, special, punitive, exemplary or consequential damages whatsoever, however caused and under any theory of liability, including but not limited to, any loss of profit (whether incurred directly or indirectly), any loss of goodwill or business reputation, any loss of data suffered, cost of procurement of substitute goods or services, or other intangible loss. </p>
+                    <p></p>
+                    
+                    
+                         
+                         
+                          </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <!-- About End -->
+
+
+
+
+           
+
+            <!-- Footer Start -->
+	            <div class="footer">
+	                <div class="container">
+	                    <div class="row">
+	                        <div class="col-md-6 col-lg-4">
+	                            <div class="footer-about">
+	                                <h2>About Us</h2>
+	                                <p>
+	                                    The Legal Zone is a recognized & reputed law firm with associates across India. We are one of the full service law firm in india. We have a team of dedicated individuals with having years of experience. Our law firm is having a vast variety of experience in providing legal services not confined to particular field or area of practice. Our associates provides full legal services for cases relating to Criminal, Civil, Real Estate, Consumer, Insurance, Metrimonial, Recovery matters and many more.
+	                                </p>
+	                            </div>
+	                        </div>
+	                        <div class="col-md-6 col-lg-8">
+	                            <div class="row">
+	                        <div class="col-md-6 col-lg-4">
+	                            <div class="footer-link">
+	                                <h2>Services Areas</h2>
+	                                <a href="">Civil Law</a>
+	                                <a href="">Criminal Law</a>
+	                                <a href="">Metrimonial  Law</a>
+	                                <a href="">Custom Law</a>
+	                                <a href="">ETC.</a>
+	                            </div>
+	                        </div>
+	                        <div class="col-md-6 col-lg-4">
+	                            <div class="footer-link">
+	                                <h2>Useful Pages</h2>
+	                                <a href="">About Us</a>
+	                                <a href="">Practice Areas</a>
+	                                <a href="">Attorneys</a>
+	                                <a href="">Contact Us</a>
+	                                <a href="">FAQs</a>
+	                            </div>
+	                        </div>
+	                        <div class="col-md-6 col-lg-4">
+	                            <div class="footer-contact">
+	                                <h2>Get In Touch</h2>
+	                                <p><i class="fa fa-map-marker-alt"></i>Chamber No. 15 Saket Courts Complex, New Delhi-110049, India</p>
+	                                <p><i class="fa fa-phone-alt"></i>+91 8076646045</p>
+	                                <p><i class="fa fa-envelope"></i>thelegalzone.net@gmail.com</p>
+	                                <div class="footer-social">
+	                                    <a href="https://twitter.com/THELEGALZONE1?s=08"><i class="fab fa-twitter"></i></a>
+	                                    <a href="https://www.facebook.com/tlz.thelegalzone"><i class="fab fa-facebook-f"></i></a>
+	                                    <a href="https://www.linkedin.com/in/the-legal-zone-8b14b3207"><i class="fab fa-linkedin-in"></i></a>
+	                                </div>
+	                            </div>
+	                        </div>
+	                        </div>
+	                    </div>
+	                    </div>
+	                </div>
+	                <div class="container footer-menu">
+	                    <div class="f-menu">
+	                        <a href="">Terms of use</a>
+	                        <a href="">Privacy policy</a>
+	                        <a href="">Cookies</a>
+	                        <a href="">Help</a>
+	                        <a href="">FQAs</a>
+	                    </div>
+	                </div>
+	                <div class="container copyright">
+	                    <div class="row">
+	                        
+	                    </div>
+	                </div>
+	            </div>
+	            <!-- Footer End -->
+	
+
+
+
+
+
+
+            
+            <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
+        </div>
+
+        <!-- JavaScript Libraries -->
+        <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.bundle.min.js"></script>
+        <script src="lib/easing/easing.min.js"></script>
+        <script src="lib/owlcarousel/owl.carousel.min.js"></script>
+        <script src="lib/isotope/isotope.pkgd.min.js"></script>
+
+        <!-- Template Javascript -->
+        <script src="js/main.js"></script>
+    </body>
+</html>
