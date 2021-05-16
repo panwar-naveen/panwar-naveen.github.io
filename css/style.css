@@ -1884,3 +1884,12 @@ a:focus {
     color: white;
     background-color: #3f729b;
 }
+
+.mapouter {
+    margin-top: 10px;
+}
+
+.copyright {
+    color: #999999;
+    text-align: center;
+}
