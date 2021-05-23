@@ -1895,7 +1895,7 @@ a:focus {
 }
 
 .practice-area {
-    background-color: #06174d;
+    background-color: #101113;
 }
 
 .practice-area .container .prac-button {
@@ -1906,7 +1906,7 @@ a:focus {
     padding: 16px;
     float:none;
     margin:auto;
-    color: #06174d;
+    color: #101113;
     font-size: 2rem;
     border: solid 2px black;
 }
