@@ -1922,3 +1922,7 @@ a:focus {
 .practice-area .container .prac-title {
     color: white;
 }
+
+.prac-title h1 {
+    color: #aa9166;
+}
